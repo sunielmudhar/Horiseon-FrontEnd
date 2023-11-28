@@ -24,7 +24,7 @@ Designed primarily for a desktop experience, the site can be accessed on small s
 
 ### GitHub Pages:
 
-[GitHub Pages]()
+[GitHub Pages](https://sunielmudhar.github.io/Horiseon-FrontEnd/)
 
 ## Credits
 The following resources were used in order to help complete this refactoring task:
